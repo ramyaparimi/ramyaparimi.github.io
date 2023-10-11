@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[162],{7172:a=>{a.exports=JSON.parse('{"label":"community","permalink":"/ramyaparimi.github.io/blog/tags/community","allTagsPath":"/ramyaparimi.github.io/blog/tags","count":1}')}}]);

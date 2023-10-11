@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[954],{8361:e=>{e.exports=JSON.parse('{"label":"devrel","permalink":"/ramyaparimi.github.io/blog/tags/devrel","allTagsPath":"/ramyaparimi.github.io/blog/tags","count":1}')}}]);
