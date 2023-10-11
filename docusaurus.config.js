@@ -14,7 +14,7 @@ const config = {
   url: 'https://ramyaparimi.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/portfolio-docusaurus.io/',
+  baseUrl: '/portfolio-docusaurus/',
   projectName: 'portfolio-docusaurus',
   trailingSlash: false,
   // GitHub pages deployment config.
