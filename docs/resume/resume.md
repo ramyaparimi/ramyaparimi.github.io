@@ -5,7 +5,7 @@ sidebar_position: 0
 
 # **RAMYA PARIMI**
 
-[rlp.parimi@gmail.com](mailto:rlp.parimi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ramyaparimi/) | [GitHub](https://github.com/ramyaparimi) | [Webdev Projects](https://codepen.io/collection/ZMqrWo) | [Blog](https://medium.com/@rlp.parimi)
+[rlp.parimi@gmail.com](mailto:rlp.parimi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ramyaparimi/) | [GitHub](https://github.com/ramyaparimi) | [Webdev Projects](https://codepen.io/collection/ZMqrWo) | [Blog](https://medium.com/@rlp.parimi) | [Portfolio](https://ramyaparimi.github.io/)
 
 **Tech Skills:** HTML, CSS, JavaScript, Docusaurus, | Python, SQL, Pandas | Shell scripting, Linux, GH CLI | REST API calls w/ cURL | YAML, Git, GitHub| Figma | Markdown | Ascii doc, Antora
 
