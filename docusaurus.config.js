@@ -75,7 +75,12 @@ const config = {
             position: 'left',
             label: 'Resume',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://codepen.io/collection/ZMqrWo',
+            label: 'Projects',
+            position: 'left',
+          },
           {
             href: 'https://github.com/ramyaparimi',
             label: 'GitHub',
