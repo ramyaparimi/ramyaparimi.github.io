@@ -4,32 +4,33 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Empathy',
+    Svg: require('/static/img/undraw_blooming_re_2kc4.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+      With empathy as my superpower, I uncover hidden challenges 
+      and design thoughtful solutions that create a positive impact.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Passion for Open Source',
+    Svg: require('/static/img/undraw_open_source_-1-qxw.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      I believe that knowledge is most valuable when shared with all, 
+      and I strongly resonate with the <a href="https://opensource.com/open-source-way">principles</a> of the open source.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Data Driven',
+    Svg: require('/static/img/undraw_design_data_re_0s26.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+      Data drives my precise decisions, 
+      leading to well-informed victories. 
+      It's my North Star in the journey of decision-making.
       </>
     ),
   },
