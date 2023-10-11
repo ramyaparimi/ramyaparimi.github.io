@@ -1,6 +1,6 @@
 ---
-slug: first-blog-post
-title: First Blog Post
+slug: advocacy-traits
+title: Advocacy Traits
 authors:
   name: Ramya Parimi
   title: Empathetic Advocacy, Keys to Building a Thriving Developer Community
