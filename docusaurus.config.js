@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Im Ramya',
+  title: 'Hi! I am Ramya',
   tagline: 'I am passionate about developer experience ad open source projects',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/my-icon.png',
 
   // Set the production url of your site here
   url: 'https://ramyaparimi.github.io', 
@@ -66,7 +66,7 @@ const config = {
         title: 'Ramya Parimi',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/amethyst.png',
+          src: 'img/my-icon.png',
         },
         items: [
           {
