@@ -3,7 +3,7 @@ slug: advocacy-traits
 title: Empathetic Advocacy, Keys to Building a Thriving Developer Community
 authors:
   name: Ramya Parimi
-  title: Empathetic Advocacy, Keys to Building a Thriving Developer Community
+  title: DevRel @ ForgeRock
   url: https://www.linkedin.com/in/ramyaparimi/
   # image_url: https://github.com/wgao19.png
 tags: [devrel, empathy, community]
