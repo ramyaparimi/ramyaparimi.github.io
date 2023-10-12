@@ -1,6 +1,6 @@
 ---
 slug: advocacy-traits
-title: Advocacy Traits
+title: Empathetic Advocacy, Keys to Building a Thriving Developer Community
 authors:
   name: Ramya Parimi
   title: Empathetic Advocacy, Keys to Building a Thriving Developer Community
