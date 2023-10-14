@@ -1,6 +1,4 @@
-**Check out my portfolio at https://ramyaparimi.github.io/**
-
----
+# Check out my portfolio at https://ramyaparimi.github.io/**
 
 
 # Website
