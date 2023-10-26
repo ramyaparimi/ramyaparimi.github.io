@@ -4,10 +4,22 @@
         <title>Hi, I am Ramya Blog</title>
         <link>https://ramyaparimi.github.io/blog</link>
         <description>Hi, I am Ramya Blog</description>
-        <lastBuildDate>Wed, 11 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[What's API Documentation Anyway?]]></title>
+            <link>https://ramyaparimi.github.io/blog/api-documentation</link>
+            <guid>https://ramyaparimi.github.io/blog/api-documentation</guid>
+            <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[In the last week, I got myself a new learning journey and as you may have already guessed, its to learn API documentation.]]></description>
+            <content:encoded><![CDATA[<p>In the last week, I got myself a new learning journey and as you may have already guessed, its to learn API documentation.</p><p>I am an avid learner and yet again I am diving into another unknown landscape. This got me thinking as to why I keep tasking myself with such goals? It's not like I have tons of time in my life, so, why do I keep picking up these new learning journeys? Well, the answer is this pattern I noticed in myself. I find immense happiness achieving these unconsciously given goals.</p><p>So for my this journey, I am diligently following the "API Docs Course" from <a href="https://idratherbewriting.com/learnapidoc/" target="_blank" rel="noopener noreferrer">I'd Rather Be Writing blog</a>. I spent about an hour early this week to get my perquisites installed and tested. Now, I am all ready to dive into learning API documentation.</p><p>I will keep posting my journey and learning updates, at least weekly. So, if you are interested, follow me on uncovering "What API documentation is anyway?". I am sure this is going to be a very fun full journey journey.</p><p>~ Until later 👋.</p>]]></content:encoded>
+            <category>technical writing</category>
+            <category>developer docs</category>
+            <category>documentation</category>
+            <category>api docs</category>
+        </item>
         <item>
             <title><![CDATA[Empathetic Advocacy, Keys to Building a Thriving Developer Community]]></title>
             <link>https://ramyaparimi.github.io/blog/advocacy-traits</link>
