@@ -83,6 +83,11 @@ const config = {
             position: 'left',
           },
           {
+            href: 'https://medium.com/@rlp.parimi',
+            label: 'Blogs on Medium',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/ramyaparimi',
             label: 'GitHub',
             position: 'right',
