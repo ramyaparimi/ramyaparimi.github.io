@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ramyaparimi.github.io/blog</id>
-    <title>Hi, I am Ramya Blog</title>
+    <title>Ramya Parimi Blog</title>
     <updated>2023-10-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ramyaparimi.github.io/blog"/>
-    <subtitle>Hi, I am Ramya Blog</subtitle>
+    <subtitle>Ramya Parimi Blog</subtitle>
     <icon>https://ramyaparimi.github.io/img/my-icon.png</icon>
     <entry>
         <title type="html"><![CDATA[What's API Documentation Anyway?]]></title>
