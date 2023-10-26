@@ -6,7 +6,7 @@ authors:
   title: DevRel @ ForgeRock
   url: https://www.linkedin.com/in/ramyaparimi/
   # image_url: https://github.com/wgao19.png
-tags: [technical writing, developer docs, documentation]
+tags: [technical writing, developer docs, documentation, api docs]
 ---
 
 In the last week, I got myself a new learning journey and as you may have already guessed, its to learn API documentation.
