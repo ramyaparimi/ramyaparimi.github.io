@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"What\'s API Documentation Anyway?","permalink":"/blog/api-documentation"},{"title":"Empathetic Advocacy, Keys to Building a Thriving Developer Community","permalink":"/blog/advocacy-traits"}]}')}}]);

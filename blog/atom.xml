@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ramyaparimi.github.io/blog</id>
     <title>Ramya Parimi Blog</title>
-    <updated>2023-10-25T00:00:00.000Z</updated>
+    <updated>2023-10-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ramyaparimi.github.io/blog"/>
     <subtitle>Ramya Parimi Blog</subtitle>
     <icon>https://ramyaparimi.github.io/img/my-icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[How to recognize signs of burnout]]></title>
+        <id>https://ramyaparimi.github.io/blog/managing-burnout</id>
+        <link href="https://ramyaparimi.github.io/blog/managing-burnout"/>
+        <updated>2023-10-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What is burnout?]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-burnout">What is burnout?<a href="#what-is-burnout" class="hash-link" aria-label="Direct link to What is burnout?" title="Direct link to What is burnout?">​</a></h2><p>According to pyschologytoday, burnout is defined as a state of emotional, mental, and physical exhaustion brought on by prolonged or repeated stress. In today's world, almost everyone is experiencing burnout, however, a lot of us might not be aware of it. I didn't know anything about burnout until I had a series of breakdowns and meltdowns so frequently that I had to revisit a lot of my life choices. I promised myself that I would put myself as my priority and believe me, I never looked back after that decision.</p><p>Until last year, a burnout for me always lead to a breakdown or a meltdown. As I researched into my burnout situation, I realized  certain unattended triggers eventually lead to burnout -&gt; meltdown. My own burnout resrearch has tremendously helped me in understanding myself better and I hope this helps you as well. </p><p>I have three major burnout triggers:</p><ol><li>Clutter</li><li>Sensory stimulation</li><li>Social exhaustion</li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="clutter">Clutter<a href="#clutter" class="hash-link" aria-label="Direct link to Clutter" title="Direct link to Clutter">​</a></h2><p>Visual clutter is my biggest trigger. More the visual clutter, more anxious I get. I worked on reducing visual clutter by practicing minimalism. KonMari's method of organizing was tremendously helpful in declutting my things. Please know that this was a two year long journey. First step was to purge everything and then came the organizing part. Now, I go through declutter every few months to keep my stuff in check. I mindfully buy new things, rather, rarely buy new things. I buy things that provide high value in terms of usability and practicality.</p><p>Because there are less things, I spend way less time cleaning my house, which gives me more time to spend with family and my other hobbies.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="sensory-stimulation">Sensory Stimulation<a href="#sensory-stimulation" class="hash-link" aria-label="Direct link to Sensory Stimulation" title="Direct link to Sensory Stimulation">​</a></h2><p>I have hightened olfacotry senses and they get even higher when I am burning out. I noticed that constant </p><p>So when ever I notice the above things getting out of hand, I take it slow and take a break. Sometimes even taking a half a day off on a Friday helps me alot to regulate my burn out.I am also able to figure out when I am sensorily overstimlated and take necessary measures before it gets too late.I am also learning to say no.All these things have helped me manage my burn out off late.</p>]]></content>
+        <author>
+            <name>Ramya Parimi</name>
+            <uri>https://www.linkedin.com/in/ramyaparimi/</uri>
+        </author>
+        <category label="mental health" term="mental health"/>
+        <category label="burnout" term="burnout"/>
+        <category label="mindfulness" term="mindfulness"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What's API Documentation Anyway?]]></title>
         <id>https://ramyaparimi.github.io/blog/api-documentation</id>

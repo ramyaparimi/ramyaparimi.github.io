@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5573],{2995:e=>{e.exports=JSON.parse('{"label":"mental health","permalink":"/blog/tags/mental-health","allTagsPath":"/blog/tags","count":1}')}}]);
