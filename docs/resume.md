@@ -61,4 +61,4 @@ tags: [resume]
 
 **Research Publications**
 
-# [Uncovering Novel Protein Partners of Inducible Nitric Oxide Synthase in Human Testis](https://www.mdpi.com/2218-273X/14/4/388)
+[Uncovering Novel Protein Partners of Inducible Nitric Oxide Synthase in Human Testis](https://www.mdpi.com/2218-273X/14/4/388)
