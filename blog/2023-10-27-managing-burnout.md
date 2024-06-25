@@ -1,6 +1,6 @@
 ---
 slug: managing-burnout
-title: How to recognize signs of burnout
+title: How to recognize signs of burnout (in-progress)
 authors:
   name: Ramya Parimi
   title: DevRel @ ForgeRock
